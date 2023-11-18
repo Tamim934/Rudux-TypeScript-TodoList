@@ -1,0 +1,8 @@
+.myButton {
+ color: black;
+ font-size: 20px; /* make the button text bigger */
+}
+
+.myButton:hover {
+ color: white;
+}
