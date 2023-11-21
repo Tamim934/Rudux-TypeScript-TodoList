@@ -3,7 +3,7 @@
 ## npm run dev
    
   
- # Redux Todo List
+ # Redux Todo List 
 The Redux Todo List is a simple yet powerful application that demonstrates the core concepts of Redux, a predictable state container for JavaScript apps.
 
 ## Overview
